@@ -1,0 +1,390 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+html {
+    width: 100%;
+}
+
+.sanbi-theme {
+    width: 100%;
+}
+
+header {
+    background-color: #0253ee;
+    padding: 0px;
+}
+
+.logo img {
+    margin-left: 23px;
+    width: 100px;
+    height: 20px;
+    top: 23px;
+    position: relative;
+}
+
+.header-left {
+    margin-top: 10px;
+}
+
+.navigation {
+    position: relative;
+    bottom: 7px;
+}
+
+.navigation ul li {
+    display: inline;
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    margin: 20px;
+    font-weight: 500;
+}
+
+.join {
+    background-color: white !important;
+    color: #0253ee !important;
+    border-radius: 25px !important;
+    height: 45px !important;
+    width: 130px !important;
+    font-size: 18px !important;
+}
+
+.join:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.header-right {
+    margin-left: 500px;
+}
+
+.home {
+    background: linear-gradient(to right, #4486ff, rgb(255, 197, 255)) !important;
+}
+
+.image1-text {
+    margin-top: 200px;
+    color: white;
+}
+
+.image1-text h1 {
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.images {
+    width: 180px;
+    height: 60px;
+    transition: all 0.5s ease;
+}
+
+.images:hover {
+    opacity: 0.5;
+}
+
+.image1 {
+    margin-top: 100px;
+}
+
+.about-text {
+    margin-top: 20px;
+}
+
+.bi {
+    font-size: 60px;
+    color: #0253ee;
+}
+
+.about {
+    margin: 125px;
+}
+
+.about-pic {
+    background-color: #0253ee !important;
+    border-radius: 20px;
+}
+
+.about-context {
+    margin-top: 90px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.about-pic {
+    margin: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.about-text {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.icon {
+    font-size: 40px;
+}
+
+.feature {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.powerful-feature {
+    padding-top: 40px;
+}
+
+.image4 {
+    width: 90%;
+    height: 600px;
+}
+
+.image5 {
+    width: 90%;
+    height: 620px;
+    margin-left: 30px;
+}
+
+.check {
+    font-size: 22px;
+}
+
+.read {
+    background-color: #0253ee !important;
+    color: white !important;
+    border-radius: 35px !important;
+    height: 60px !important;
+    width: 160px !important;
+    font-size: 18px !important;
+}
+
+.read:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.reaction {
+    margin-top: 130px;
+}
+
+.Days {
+    background-color: #0253ee !important;
+    color: white !important;
+    border-radius: 35px !important;
+    height: 60px !important;
+    width: 70% !important;
+    font-size: 18px !important;
+}
+
+.basic {
+    border: 1px solid rgb(219, 200, 200);
+    border-radius: 40px;
+    height: 470px;
+}
+
+.professional {
+    border: 1px solid rgb(219, 200, 200);
+    border-radius: 40px;
+    background-color: #0253ee;
+    color: white;
+    height: 470px;
+    width: 100%;
+}
+
+.p-btn {
+    background-color: white !important;
+    color: #0253ee !important;
+    border-radius: 35px !important;
+    height: 60px !important;
+    width: 70% !important;
+    font-size: 18px !important;
+}
+
+.p-btn:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.Days:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.pricing {
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
+.trusty {
+    padding-top: 130px;
+}
+
+.p-logo {
+    width: 60px;
+    height: 60px;
+}
+
+.b-pic {
+    width: 95%;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.blog {
+    margin-top: 50px;
+}
+
+.blog-content {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.blog-information {
+    background-color: #0253ee;
+    border-radius: 30px;
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+.blog-text {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.Email {
+    font-size: 50px;
+}
+
+.left {
+    position: relative;
+    left: 90px;
+    bottom: 70px;
+}
+
+.call {
+    position: relative;
+    bottom: 50px;
+}
+
+.visit {
+    position: relative;
+    bottom: 100px;
+}
+
+.contact {
+    padding-top: 70px;
+    margin-left: 50px;
+}
+
+.subscribe {
+    background-color: #0253ee !important;
+    border-radius: 40px !important;
+    color: white !important;
+    margin-top: 20px !important;
+    padding: 15px !important;
+}
+
+.subscribe:hover {
+    background-color: black !important;
+    color: white !important;
+}
+
+.contact-subscription {
+    margin-left: 30px;
+    margin-right: 40px;
+    padding-top: 100px;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .sanbi-theme {
+        width: 100%;
+    }
+
+    .col-md-4 {
+        width: 100%;
+    }
+
+    .reaction {
+        position: relative;
+        left: 150px;
+    }
+}
+
+@media only screen and (max-width: 560px) {
+    .sanbi-theme {
+        width: 100%;
+    }
+
+    .image5 {
+        margin-left: 130px;
+    }
+
+    .image4 {
+        margin-left: 130px;
+    }
+
+    .secure {
+        margin-left: 40px;
+    }
+
+    .pricing {
+        margin-left: 100px;
+    }
+
+    .basic {
+        margin-bottom: 30px;
+    }
+
+    .professional {
+        margin-bottom: 30px;
+    }
+
+    .col-md-2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* padding: 10px; */
+        margin: 10px;
+    }
+
+    .integration {
+        margin-left: 150px;
+    }
+
+    .blog-content {
+        margin-left: 130px;
+    }
+
+    .stay {
+        margin-left: 100px;
+    }
+
+    .blog-text {
+        width: 700px;
+    }
+
+    .assignment {
+        margin-left: 140px;
+    }
+
+    .about-pic {
+        position: relative;
+        right: 100px;
+        width: 440px;
+    }
+
+    .image2 {
+        width: 340px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+}
